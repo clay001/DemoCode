@@ -1,6 +1,6 @@
 # DemoCode
  paper_origin_try  
- This is an group-meeting repository, arranged by date time, each update I will add some discription down here.
+ This is a group-meeting repository, arranged by date time, each update I will add some discriptions down here.
  
  ## 1.Folder:8-19
  
