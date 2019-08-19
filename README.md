@@ -2,7 +2,7 @@
  paper_origin_try
  This is an group-meeting repository, arranged by date time, each update I will add some discription down here.
  
- ## 1.Folder:8-19 \n
+ ## 1.Folder:8-19 <\br>
    monocleR: some practice with monocle in R
              monocle.R : main file: 
              seurat.R : get familiar with seurat
