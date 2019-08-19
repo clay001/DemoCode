@@ -12,7 +12,7 @@
              
              others: data 
              
-   ODE-torch:paper ODE with pytorch version
+   ODE-torch: paper ODE with pytorch version
               
              rnn_solver: main ready to go model
              
